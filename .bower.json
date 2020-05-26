@@ -1,0 +1,41 @@
+{
+  "name": "angular-bootstrap-dtp-directive-kyani-inc",
+  "version": "0.1.5",
+  "authors": "Jose Luis Lopez",
+  "description": "A wrapper directive around the bootstrap-datetimepicker component.",
+  "main": "angular-bootstrap-datetimepicker-directive.js",
+  "keywords": [
+    "angular",
+    "bootstrap",
+    "datetimepicker",
+    "directive",
+    "wrapper"
+  ],
+  "license": "MIT",
+  "homepage": "http://github.com/diosney/angular-bootstrap-datetimepicker-directive",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "*",
+    "bootstrap-datetimepicker-kyani-inc": ">=4.0.0",
+    "jquery": "*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/diosney/angular-bootstrap-datetimepicker-directive.git"
+  },
+  "_release": "0.1.5",
+  "_resolution": {
+    "type": "version",
+    "tag": "0.1.5",
+    "commit": "f07bb422abdefc291db472c0003af1b604f61d75"
+  },
+  "_source": "https://github.com/kyani-inc/angular-bootstrap-datetimepicker-directive.git",
+  "_target": "=0.1.5",
+  "_originalSource": "angular-bootstrap-dtp-directive-kyani-inc"
+}
